@@ -15,6 +15,7 @@ This project creates an entire API to serve information to a Boss Machine, a uni
 * HTML
 * CSS
 * Express.js
+* Node.js
 * Custom middleware
 * Setting up the server and API rooutes
 
