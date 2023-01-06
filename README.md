@@ -4,6 +4,7 @@ CodeCademy Project: Create an entire API to serve information to a Boss Machine
 ## Table of Contents ##
 * [General Info](#General-Info)
 * [Technologies Used](#Technologies-Used)
+* [Running App](#Running-App)
 * [Source](#Source)
 * [Screenshots](#Screenshots)
 * [Project Status](#Project-Status)
@@ -37,6 +38,9 @@ Routes Required
   * GET /api/meetings to get an array of all meetings.
   * POST /api/meetings to create a new meeting and save it to the database.
   * DELETE /api/meetings to delete _all_ meetings from the database.
+
+## Running App ##
+Run 'npm install' to install the dependencies of this project and build the front-end application. Once it has finished installing, you can run 'npm run start' to begin your server. The npm run start script will automatically restart your server whenever you make changes to the server.js file or server/ folder. If you want to turn this off, simply start your server with the node server.js command. You can kill either process with the Ctrl + C command.
 
 ## Source ##
 [CodeCademy](http://www.codecademy.com)
