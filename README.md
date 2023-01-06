@@ -1,5 +1,5 @@
 # :space_invader: Boss Machine #
-CodeCademy Project: create an entire API to serve information to a Boss Machine
+CodeCademy Project: Create an entire API to serve information to a Boss Machine
 
 ## Table of Contents ##
 * [General Info](#General-Info)
