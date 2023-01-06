@@ -40,7 +40,7 @@ Routes Required
   * DELETE /api/meetings to delete _all_ meetings from the database.
 
 ## Running App ##
-Run `npm install` to install the dependencies of this project and build the front-end application. Once it has finished installing, you can run `npm run start to begin your server. The npm run start script will automatically restart your server whenever you make changes to the server.js file or server/ folder. If you want to turn this off, simply start your server with the node server.js command. You can kill either process with the Ctrl + C command.
+Run `npm install` to install the dependencies of this project and build the front-end application. Once it has finished installing, you can run `npm run start` to begin your server. The npm run start script will automatically restart your server whenever you make changes to the server.js file or server/ folder. If you want to turn this off, simply start your server with the node server.js command. You can kill either process with the Ctrl + C command.
 
 ## Source ##
 [CodeCademy](http://www.codecademy.com)
